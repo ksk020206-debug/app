@@ -1,0 +1,24 @@
+[theme]
+base= "light"
+
+# Primary accent color.
+primaryColor = "#AAD3FF"
+
+# Background color of the app.
+backgroundColor = "#004092"
+
+# Background color used for most interactive widgets.
+#secondaryBackgroundColor = ""
+
+# Color used for almost all text.
+#textColor = ""
+
+# Red color used in the basic color palette.
+#
+# By default, this is #ff4b4b for the light theme and #ff2b2b for the
+# dark theme.
+#
+# If `redColor` is provided, and `redBackgroundColor` isn't, then
+# `redBackgroundColor` will be derived from `redColor` using 10%
+# opacity for the light theme and 20% opacity for the dark theme.
+#redColor = ""
