@@ -5,13 +5,13 @@ base= "light"
 primaryColor = "#AAD3FF"
 
 # Background color of the app.
-backgroundColor = "#004092"
+backgroundColor = "#F5F5F5"
 
 # Background color used for most interactive widgets.
-#secondaryBackgroundColor = ""
+secondaryBackgroundColor = "#1E5AA8"
 
 # Color used for almost all text.
-#textColor = ""
+textColor = "#000000"
 
 # Red color used in the basic color palette.
 #
